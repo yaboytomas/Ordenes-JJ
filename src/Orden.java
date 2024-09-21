@@ -4,6 +4,7 @@ public class Orden {
 
     //Atributos
     private int idOrden;
+    private int cantPedido;
     private List<Producto> productos;
 
     //Constructor

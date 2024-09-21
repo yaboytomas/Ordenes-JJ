@@ -29,6 +29,16 @@ public class Main {
         System.out.println("Total de la orden 1: $" + orden1.calcularTotal());
         orden2.mostrarOrden();
         System.out.println("Total de la orden 2: $" + orden2.calcularTotal());
+        System.out.println();
+
+        //Mostrar descripcion de productos
+        System.out.println("Descripcion de productos:");
+        System.out.println(producto1);
+        System.out.println(producto2);
+        System.out.println(producto3);
+        System.out.println(producto4);
+        System.out.println(producto5);
+
 
 
 
